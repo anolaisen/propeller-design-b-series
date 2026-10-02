@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*.autosave
+*.mat~
+codegen/
+
+# SolidWorks temp/lock files
+~$*
+*.SLDBAK
+
+# CFD result files (large) – keep only setup and exported plots
+cfd/**/results/
+
+# OS
+.DS_Store
+Thumbs.db
